@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 body{
-    background-color: yellowgreen;
+    background-color: rgb(187, 202, 144);
 }
 .quotes{
     top: 50%;
@@ -76,6 +76,7 @@ body{
     outline: 0;
     color: white;
     background-color: rgb(41, 109, 173);
+    cursor: pointer;
 }
 .quotes button i{
     margin-right: 10px;
